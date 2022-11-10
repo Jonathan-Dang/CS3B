@@ -1,0 +1,12 @@
+Jonathan;Dinner;1;07062016
+Walter White;Dinner;2;08062021
+Walter White Jr.;Dinner;4;02012014
+Monica Geller;Dinner;10;05072015
+Henry;Dinner;6;07062016
+Ben;Conference;1;04052015
+Nancy Blue;Conference;4;01022020
+Mary Red;Conference;1;08202012
+Max;Conference;2;09252009
+James;Lodging;10;03122001
+John;Lodging;1;03242012
+George;Lodging;3;12112015
